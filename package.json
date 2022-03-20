@@ -1,0 +1,25 @@
+{
+  "name": "cypress-api-tutorial",
+  "version": "1.0.0",
+  "description": "Repository created in the article REST API Tests with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeDoe49/cypress-api-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeDoe49/cypress-api-tutorial/issues"
+  },
+  "homepage": "https://github.com/JoeDoe49/cypress-api-tutorial#readme",
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
+}
